@@ -1,0 +1,11 @@
+# Kuku's screenplays are confidential: never commit them
+episode-*.txt
+*.zip
+
+# Run outputs quote the scripts: share them through a private link instead
+outputs*/
+parsed_episodes.json
+
+__pycache__/
+.env
+.DS_Store
